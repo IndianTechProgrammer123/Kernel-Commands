@@ -9,4 +9,4 @@
 # 7 = delete file and folder -> file - rm___ , folder - rm -rf_____
 
 
-subscribe my channel = https://www.youtube.com/channel/UCdpyXjLdmt-OtxOTkIgV5ew
+# subscribe my channel = 'https://www.youtube.com/channel/UCdpyXjLdmt-OtxOTkIgV5ew'
