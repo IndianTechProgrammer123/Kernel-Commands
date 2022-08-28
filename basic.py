@@ -8,5 +8,4 @@
 # 6 = create new file and folder -> file - touch_____ , folder - mkdir_____
 # 7 = delete file and folder -> file - rm___ , folder - rm -rf_____
 
-
-subscribe my channel = 'https://www.youtube.com/channel/UCdpyXjLdmt-OtxOTkIgV5ew'
+# subscribe my channel = 'https://www.youtube.com/channel/UCdpyXjLdmt-OtxOTkIgV5ew'
